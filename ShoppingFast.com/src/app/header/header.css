@@ -33,12 +33,11 @@
     text-decoration: none;
     font-size: 16px;
 }
-
 .nav-right {
     display: flex;
     align-items: center;
+    gap: 10px; /* sab elements ke beech equal gap */
 }
-
 .search-box {
     padding: 5px 10px;
     margin-right: 10px;
